@@ -1,0 +1,6 @@
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.Core\bin\Debug\MultiThreading.Core.dll
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.Core\bin\Debug\MultiThreading.Core.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.Core\obj\Debug\MultiThreading.Core.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.Core\obj\Debug\MultiThreading.Core.dll
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.Core\obj\Debug\MultiThreading.Core.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.Core\obj\Debug\MultiThreading.Core.csprojAssemblyReference.cache

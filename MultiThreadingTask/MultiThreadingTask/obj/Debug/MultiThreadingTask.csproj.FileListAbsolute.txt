@@ -1,0 +1,2 @@
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreadingTask\obj\Debug\MultiThreadingTask.csprojAssemblyReference.cache
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreadingTask\obj\Debug\MultiThreadingTask.csproj.CoreCompileInputs.cache

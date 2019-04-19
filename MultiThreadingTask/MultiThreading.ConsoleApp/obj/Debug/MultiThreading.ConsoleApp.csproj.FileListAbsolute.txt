@@ -1,0 +1,10 @@
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\obj\Debug\MultiThreading.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\obj\Debug\MultiThreading.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\bin\Debug\MultiThreading.ConsoleApp.exe.config
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\bin\Debug\MultiThreading.ConsoleApp.exe
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\bin\Debug\MultiThreading.ConsoleApp.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\bin\Debug\MultiThreading.Core.dll
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\bin\Debug\MultiThreading.Core.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\obj\Debug\MultiThreading.ConsoleApp.csproj.CopyComplete
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\obj\Debug\MultiThreading.ConsoleApp.exe
+C:\Users\Viktoriya_Kaleda\source\repos\MultiThreadingTask\MultiThreading.ConsoleApp\obj\Debug\MultiThreading.ConsoleApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\bin\Debug\SiteCrawler.ConsoleApp.exe.config
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\bin\Debug\SiteCrawler.ConsoleApp.exe
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\bin\Debug\SiteCrawler.ConsoleApp.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\bin\Debug\SiteCrawler.Core.dll
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\bin\Debug\SiteCrawler.Core.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\obj\Debug\SiteCrawler.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\obj\Debug\SiteCrawler.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\obj\Debug\SiteCrawler.ConsoleApp.csproj.CopyComplete
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\obj\Debug\SiteCrawler.ConsoleApp.exe
+C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.ConsoleApp\obj\Debug\SiteCrawler.ConsoleApp.pdb

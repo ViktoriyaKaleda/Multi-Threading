@@ -1,0 +1,10 @@
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\obj\Debug\Sum.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\obj\Debug\Sum.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\bin\Debug\Sum.ConsoleApp.exe.config
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\bin\Debug\Sum.ConsoleApp.exe
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\bin\Debug\Sum.ConsoleApp.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\bin\Debug\Sum.Core.dll
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\bin\Debug\Sum.Core.pdb
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\obj\Debug\Sum.ConsoleApp.csproj.CopyComplete
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\obj\Debug\Sum.ConsoleApp.exe
+C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.ConsoleApp\obj\Debug\Sum.ConsoleApp.pdb
