@@ -1,6 +1,0 @@
-C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.Core\bin\Debug\Sum.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.Core\bin\Debug\Sum.Core.pdb
-C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.Core\obj\Debug\Sum.Core.csprojAssemblyReference.cache
-C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.Core\obj\Debug\Sum.Core.csproj.CoreCompileInputs.cache
-C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.Core\obj\Debug\Sum.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\SumAsync\Sum.Core\obj\Debug\Sum.Core.pdb

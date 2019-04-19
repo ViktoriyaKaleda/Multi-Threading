@@ -1,6 +1,0 @@
-C:\Users\Viktoriya_Kaleda\source\repos\EntityAsyncTask\EntityAsyncTask.Core\bin\Debug\EntityAsyncTask.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\EntityAsyncTask\EntityAsyncTask.Core\bin\Debug\EntityAsyncTask.Core.pdb
-C:\Users\Viktoriya_Kaleda\source\repos\EntityAsyncTask\EntityAsyncTask.Core\obj\Debug\EntityAsyncTask.Core.csprojAssemblyReference.cache
-C:\Users\Viktoriya_Kaleda\source\repos\EntityAsyncTask\EntityAsyncTask.Core\obj\Debug\EntityAsyncTask.Core.csproj.CoreCompileInputs.cache
-C:\Users\Viktoriya_Kaleda\source\repos\EntityAsyncTask\EntityAsyncTask.Core\obj\Debug\EntityAsyncTask.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\EntityAsyncTask\EntityAsyncTask.Core\obj\Debug\EntityAsyncTask.Core.pdb

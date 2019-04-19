@@ -1,6 +1,0 @@
-C:\Users\Viktoriya_Kaleda\source\repos\FoodShop\FoodShop.Core\bin\Debug\FoodShop.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\FoodShop\FoodShop.Core\bin\Debug\FoodShop.Core.pdb
-C:\Users\Viktoriya_Kaleda\source\repos\FoodShop\FoodShop.Core\obj\Debug\FoodShop.Core.csprojAssemblyReference.cache
-C:\Users\Viktoriya_Kaleda\source\repos\FoodShop\FoodShop.Core\obj\Debug\FoodShop.Core.csproj.CoreCompileInputs.cache
-C:\Users\Viktoriya_Kaleda\source\repos\FoodShop\FoodShop.Core\obj\Debug\FoodShop.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\FoodShop\FoodShop.Core\obj\Debug\FoodShop.Core.pdb

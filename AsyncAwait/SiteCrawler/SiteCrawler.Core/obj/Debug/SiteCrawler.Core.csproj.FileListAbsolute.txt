@@ -1,6 +1,0 @@
-C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.Core\bin\Debug\SiteCrawler.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.Core\bin\Debug\SiteCrawler.Core.pdb
-C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.Core\obj\Debug\SiteCrawler.Core.csprojAssemblyReference.cache
-C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.Core\obj\Debug\SiteCrawler.Core.csproj.CoreCompileInputs.cache
-C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.Core\obj\Debug\SiteCrawler.Core.dll
-C:\Users\Viktoriya_Kaleda\source\repos\SiteCrawler\SiteCrawler.Core\obj\Debug\SiteCrawler.Core.pdb
